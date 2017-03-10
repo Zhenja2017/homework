@@ -1,0 +1,29 @@
+body{background-color: beige;}
+.fon {
+    width: 400px;
+    height: 580px;
+    background-color: white;
+    margin: 5px auto 60px;
+    padding: 60px 40px;
+    font-size: 16px;
+    font-family: "Times New Roman", Arial, Calibri;
+    line-height: 1.5em;
+   border-bottom-color: black;
+    border: 5px;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.5);
+}
+h1 {font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+}
+.photo {text-align: center;
+    padding: 10px;
+    }
+.list {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+.mt {
+    margin-top: 15px;
+
+}
